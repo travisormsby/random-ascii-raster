@@ -2,7 +2,11 @@ Generate a random ASCII format raster image. Useful for generating rasters for u
 
 usage: python random-ascii-raster.py filepath width height
 
-example: python random-ascii-raster.py images/raster.asc 10 10
+example: 
+
+```
+python random-ascii-raster.py images/raster.asc 10 10
+```
 
 This will create a file called raster.asc in the images directory with a width of 10 cells and a height of 10 cells
 
